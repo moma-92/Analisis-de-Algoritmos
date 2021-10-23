@@ -1,0 +1,7 @@
+1,Tarea01,1,4
+2,Tarea02,1,3
+3,Tarea03,2,5
+4,Tarea04,3,7
+5,Tarea05,4,7
+6,Tarea07,6,9
+7,Tarea08,7,8
